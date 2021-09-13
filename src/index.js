@@ -5,6 +5,6 @@ var myindoorgarden = require('./routes/myindoorgarden.js');
 
 app.use('/myindoorgarden', myindoorgarden);
 
-app.listen(5000, () => {
+app.listen(process.env.PORT, () => {
   console.log(`Backend running at http://localhost:5000.`)
 })
