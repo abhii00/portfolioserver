@@ -1,13 +1,13 @@
 const express = require('express');
 const cors = require('cors');
 
-const app = express();
-
 var myindoorgarden = require('./routes/myindoorgarden.js');
 
-app.use('/myindoorgarden', myindoorgarden);
+const app = express();
 
 app.use(cors());
+
+app.use('/myindoorgarden', myindoorgarden);
 
 app.listen(process.env.PORT, () => {
   console.log(`Backend running at http://localhost:5000.`)
