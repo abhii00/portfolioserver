@@ -4,7 +4,7 @@ const router = express.Router();
 const test_garden = require('../assets/myindoorgarden/test_garden.json')
 
 router
-  .get('/', function(req, res){
+  .get('/test', function(req, res){
     res.json(test_garden);
   })
 

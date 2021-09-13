@@ -19,6 +19,7 @@
   "homepage": "https://github.com/abhii00/personalwebsite-backend#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.1",
     "serve-index": "^1.9.1"
   },
   "devDependencies": {
