@@ -1,0 +1,26 @@
+{
+  "name": "personalwebsite-backend",
+  "version": "1.0.0",
+  "description": "A cohesive backend for my projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhii00/personalwebsite-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhii00/personalwebsite-backend/issues"
+  },
+  "homepage": "https://github.com/abhii00/personalwebsite-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
