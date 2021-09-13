@@ -2,8 +2,10 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-app.get('/', (req, res) => {
-  res.send('Successful response.');
-});
+var myindoorgarden = require('./routes/myindoorgarden.js');
 
-app.listen(port, () => console.log('Example app is listening on port 3000.'));
+app.use('/myindoorgarden', myindoorgarden);
+
+app.listen(port, () => {
+  console.log(`Backend running at http://localhost:${port}.`)
+})

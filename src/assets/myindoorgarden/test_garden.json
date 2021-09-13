@@ -1,0 +1,92 @@
+[
+    {
+        "individual": {
+            "nickname": "Roksolana",
+            "url": "https://cdn.shopify.com/s/files/1/1706/1307/products/Howea-forsteriana-Kentia-Palm-Raw-Cody-Tall-Plant-Vase-Running-Rust_61b38fd3-218c-4669-9042-d4c6b040a36b_1600x.jpg?v=1617186033"
+        },
+        "species": {
+            "species": "Kentia Palm",
+            "water": 4,
+            "food": 7
+        },
+        "data": {
+            "last_watered": 18000,
+            "last_fed": 18823
+        }
+    },
+    {
+        "individual": {
+            "nickname": "Panther",
+            "url": "https://www.botanicly.com/media/7d/ed/0c/1612538023/cd5ad8b853b6b3100fe85fb88aa22416.png"
+        },
+        "species": {
+            "species": "Monstera Deliciosa",
+            "water": 7,
+            "food": 7
+        },
+        "data": {
+            "last_watered": 18810,
+            "last_fed": 18823
+        }
+    },
+    {
+        "individual": {
+            "nickname": "Aurora",
+            "url": "https://thelittlebotanical.com/wp-content/uploads/2020/09/21_JT_025_1000x1000.jpg"
+        },
+        "species": {
+            "species": "Dieffenbachia",
+            "water": 4,
+            "food": 7
+        },
+        "data": {
+            "last_watered": 18823,
+            "last_fed": 18823
+        }
+    },
+    {
+        "individual": {
+            "nickname": "Øystein",
+            "url": "https://cdn.shopify.com/s/files/1/1706/1307/products/Aglaonema-Silver-Bay-Chinese-Evergreen-Manon-Plant-Pot-Ochre_1200x.jpg?v=1590848818"
+        },
+        "species": {
+            "species": "Aglaonema",
+            "water": 4,
+            "food": 7
+        },
+        "data": {
+            "last_watered": 18823,
+            "last_fed": 18823
+        }
+    },
+    {
+        "individual": {
+            "nickname": "Lyuba",
+            "url": "https://plantboutique.co.uk/wp-content/uploads/2021/01/20210116_114816-scaled.jpg"
+        },
+        "species": {
+            "species": "Golden Pothos",
+            "water": 18,
+            "food": 7
+        },
+        "data":{
+            "last_watered": 18823,
+            "last_fed": 18823
+        }
+    },
+    {
+        "individual": {
+            "nickname": "Shōhei",
+            "url": "https://cdn.shopify.com/s/files/1/1706/1307/files/Sansevieria-trifasciata-Golden-Flame-Snake-Plant-Dian-Plant-Pot-Camel_1600x.jpg?v=1624547641"
+        },
+        "species": {
+            "species": "Dracaena Trifasciata",
+            "water": 30,
+            "food": 105
+        },
+        "data": {
+            "last_watered": 18823,
+            "last_fed": 18823
+        }
+    }
+]
