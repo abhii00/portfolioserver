@@ -7,6 +7,8 @@ const app = express();
 
 app.use(cors());
 
+/* TODO create eovisualiser route with redirect api with cors */
+
 app.use('/myindoorgarden', myindoorgarden);
 
 app.listen(process.env.PORT, () => {
