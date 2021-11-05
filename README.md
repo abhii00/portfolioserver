@@ -21,6 +21,7 @@ _July 2021 - Present_
 
 ### **New Skills**
 
+* Heroku and server deployment.
 * NodeJS and Express.
 * Backend design and serving data.
 * API Requests.
