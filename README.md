@@ -22,6 +22,7 @@ _July 2021 - Present_
 ### **New Skills**
 
 * NodeJS and Express.
-* Backend design, API requests and serving data.
+* Backend design and serving data.
+* API Requests.
 
 ### **Skills Developed**
