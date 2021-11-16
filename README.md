@@ -10,12 +10,11 @@ _July 2021 - Present_
 
 ### **Implemented Features**
 
-* Currently in initial testing phase.
+* CORS Proxy for EO Visualiser to access TLE data from Celestrak.
 
 ### **Planned Features**
 
 * MEN server for My Indoor Garden data.
-* CORS Proxy for EO Visualiser.
 
 ## **Skills**
 
