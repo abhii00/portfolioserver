@@ -1,5 +1,7 @@
 # **Personal Server**
 
+:white_check_mark: WORK PLANNED :white_check_mark:
+
 A cohesive backend for my web projects.
 
 _July 2021 - Present_
